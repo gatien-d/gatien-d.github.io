@@ -1,0 +1,36 @@
+U{
+	color:red;
+}
+
+h1{ text-align : center ; }
+
+h3{ text-align : center ; }
+
+
+body{
+background-image:url(movieposter.jpg);
+}
+
+h3{
+color:white;
+background-color:black;
+}
+
+
+h1{
+color:white;
+}
+
+a{
+background-color:lightgreen;
+}
+
+p{
+color:white;
+background-color:purple;
+}
+
+img{
+background-color:purple;
+}
+
